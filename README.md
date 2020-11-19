@@ -1,4 +1,4 @@
-# bettersteamdesign
+# Better Steam Design
 
 ## Project setup
 ```
